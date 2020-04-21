@@ -1,0 +1,20 @@
+[[ConnectFourSolver]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c7a36a15667f607a69dca419ba9816b571e3d0ae"
+libc = "glibc"
+os = "linux"
+
+    [[ConnectFourSolver.download]]
+    sha256 = "0db71f3ebdffab3ff2d82d66638ba34134d385a433c9a260a76f594350032fbf"
+    url = "https://github.com/JuliaBinaryWrappers/ConnectFourSolver_jll.jl/releases/download/ConnectFourSolver-v0.1.0+0/ConnectFourSolver.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[ConnectFourSolver]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bf066a48d370ad3dd72dfa5fd609ce4becdf0e4a"
+libc = "glibc"
+os = "linux"
+
+    [[ConnectFourSolver.download]]
+    sha256 = "99a7b6aaeffab99c813bb176e9610be8f7a17cc1e145151450450254d2ab0193"
+    url = "https://github.com/JuliaBinaryWrappers/ConnectFourSolver_jll.jl/releases/download/ConnectFourSolver-v0.1.0+0/ConnectFourSolver.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
