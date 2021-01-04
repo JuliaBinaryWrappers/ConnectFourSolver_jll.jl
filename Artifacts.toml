@@ -1,20 +1,134 @@
 [[ConnectFourSolver]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "c7a36a15667f607a69dca419ba9816b571e3d0ae"
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "02da3ba6d9a948bb2586255e535200d4c77eb642"
 libc = "glibc"
 os = "linux"
 
     [[ConnectFourSolver.download]]
-    sha256 = "0db71f3ebdffab3ff2d82d66638ba34134d385a433c9a260a76f594350032fbf"
-    url = "https://github.com/JuliaBinaryWrappers/ConnectFourSolver_jll.jl/releases/download/ConnectFourSolver-v0.1.0+0/ConnectFourSolver.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "83a6298409b7e79ac3f40048f7c08793bebd040f4249463ed79c3e0e4833f9ff"
+    url = "https://github.com/JuliaBinaryWrappers/ConnectFourSolver_jll.jl/releases/download/ConnectFourSolver-v0.2.0+0/ConnectFourSolver.v0.2.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[ConnectFourSolver]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "69bd75c5ee0a0621d005d6381276901b6725eaa1"
+libc = "glibc"
+os = "linux"
+
+    [[ConnectFourSolver.download]]
+    sha256 = "080923866b03c4d0f814c4f77b4c1c38ba97cd5e83ce0e0258261c01b12bb51f"
+    url = "https://github.com/JuliaBinaryWrappers/ConnectFourSolver_jll.jl/releases/download/ConnectFourSolver-v0.2.0+0/ConnectFourSolver.v0.2.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[ConnectFourSolver]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6449de23b5e183852b700886a293476ddaedc738"
+libc = "musl"
+os = "linux"
+
+    [[ConnectFourSolver.download]]
+    sha256 = "d11129c16fc1c1ba5327b7499fc1f02ac9adc8e7207d7d6e1641f62cd1bab9f3"
+    url = "https://github.com/JuliaBinaryWrappers/ConnectFourSolver_jll.jl/releases/download/ConnectFourSolver-v0.2.0+0/ConnectFourSolver.v0.2.0.aarch64-linux-musl-cxx03.tar.gz"
+[[ConnectFourSolver]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0f2c5c9d2212a0f402c3ef5fba04926748522bcb"
+libc = "musl"
+os = "linux"
+
+    [[ConnectFourSolver.download]]
+    sha256 = "29af1ded5334378d290c4f0ca89bbc0a878b9437ebd0b4c637c6954c29b8e980"
+    url = "https://github.com/JuliaBinaryWrappers/ConnectFourSolver_jll.jl/releases/download/ConnectFourSolver-v0.2.0+0/ConnectFourSolver.v0.2.0.aarch64-linux-musl-cxx11.tar.gz"
+[[ConnectFourSolver]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c488b182db854015cddd158d125de2fe35ada9a1"
+libc = "glibc"
+os = "linux"
+
+    [[ConnectFourSolver.download]]
+    sha256 = "f225b00cdf07cec21628dc354d28ea5075d2f83c5a0ea3a16db944d092892175"
+    url = "https://github.com/JuliaBinaryWrappers/ConnectFourSolver_jll.jl/releases/download/ConnectFourSolver-v0.2.0+0/ConnectFourSolver.v0.2.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[ConnectFourSolver]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1110379ce012a9ccd5d81edc7de6b8fc8d448d8c"
+libc = "glibc"
+os = "linux"
+
+    [[ConnectFourSolver.download]]
+    sha256 = "f8a81d0dd5ed756e618efd8afcbb4c7f2e2669bd04d2c3addc852277d4beb1f4"
+    url = "https://github.com/JuliaBinaryWrappers/ConnectFourSolver_jll.jl/releases/download/ConnectFourSolver-v0.2.0+0/ConnectFourSolver.v0.2.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[ConnectFourSolver]]
+arch = "x86_64"
+git-tree-sha1 = "58c2c7adf612b6b9470fc956e4857acb71826452"
+os = "macos"
+
+    [[ConnectFourSolver.download]]
+    sha256 = "f4b64082b8a9ffeaf6e7340d8fff1478ac9bb4e29f6ed01bda5aa354758f387d"
+    url = "https://github.com/JuliaBinaryWrappers/ConnectFourSolver_jll.jl/releases/download/ConnectFourSolver-v0.2.0+0/ConnectFourSolver.v0.2.0.x86_64-apple-darwin.tar.gz"
 [[ConnectFourSolver]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bf066a48d370ad3dd72dfa5fd609ce4becdf0e4a"
+git-tree-sha1 = "59c299d01ec3bf04d4141144e050e8c0daee3bdc"
 libc = "glibc"
 os = "linux"
 
     [[ConnectFourSolver.download]]
-    sha256 = "99a7b6aaeffab99c813bb176e9610be8f7a17cc1e145151450450254d2ab0193"
-    url = "https://github.com/JuliaBinaryWrappers/ConnectFourSolver_jll.jl/releases/download/ConnectFourSolver-v0.1.0+0/ConnectFourSolver.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "b01a4d53a466ad4a25afe2d1ea50053d4becb7c895de5b730d098d1d2cb387d3"
+    url = "https://github.com/JuliaBinaryWrappers/ConnectFourSolver_jll.jl/releases/download/ConnectFourSolver-v0.2.0+0/ConnectFourSolver.v0.2.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[ConnectFourSolver]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0ccce95d82140adb777ff821753e18b7b7dae8a1"
+libc = "glibc"
+os = "linux"
+
+    [[ConnectFourSolver.download]]
+    sha256 = "90eae3f5985ff78a95c57719ed9d09ac886eadb4741e0fc10664a86fda13e661"
+    url = "https://github.com/JuliaBinaryWrappers/ConnectFourSolver_jll.jl/releases/download/ConnectFourSolver-v0.2.0+0/ConnectFourSolver.v0.2.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[ConnectFourSolver]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b883f5febd09d96121ac6360cec74c7fa41fa1e4"
+libc = "musl"
+os = "linux"
+
+    [[ConnectFourSolver.download]]
+    sha256 = "f8ccd1568b50b27ae9bf477a677dcd3b22c3b56f9c3152d1fc7ba8d5df1101a2"
+    url = "https://github.com/JuliaBinaryWrappers/ConnectFourSolver_jll.jl/releases/download/ConnectFourSolver-v0.2.0+0/ConnectFourSolver.v0.2.0.x86_64-linux-musl-cxx03.tar.gz"
+[[ConnectFourSolver]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a486dfe0686b3e16f8fb04de2ecd1a39bf73bb58"
+libc = "musl"
+os = "linux"
+
+    [[ConnectFourSolver.download]]
+    sha256 = "6361542120ae6c6ce865634629b3bb854551b066e469d5d6a5ce8d39e4d76cfe"
+    url = "https://github.com/JuliaBinaryWrappers/ConnectFourSolver_jll.jl/releases/download/ConnectFourSolver-v0.2.0+0/ConnectFourSolver.v0.2.0.x86_64-linux-musl-cxx11.tar.gz"
+[[ConnectFourSolver]]
+arch = "x86_64"
+git-tree-sha1 = "9a106bd59a4556271b7fa481a378dec82d5e4302"
+os = "freebsd"
+
+    [[ConnectFourSolver.download]]
+    sha256 = "77e8d271d47cfe4fc3bb599d48270f61199486ea166ddb0d0d170c01b47a6001"
+    url = "https://github.com/JuliaBinaryWrappers/ConnectFourSolver_jll.jl/releases/download/ConnectFourSolver-v0.2.0+0/ConnectFourSolver.v0.2.0.x86_64-unknown-freebsd.tar.gz"
+[[ConnectFourSolver]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6b2d96ef2877c569920b4837f425694abf496e0d"
+os = "windows"
+
+    [[ConnectFourSolver.download]]
+    sha256 = "ccc7f2848c995481fd90b559a1fd9d19f7d88bd4855568ef305ee58f198afdc8"
+    url = "https://github.com/JuliaBinaryWrappers/ConnectFourSolver_jll.jl/releases/download/ConnectFourSolver-v0.2.0+0/ConnectFourSolver.v0.2.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[ConnectFourSolver]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0941660864929abec2902f9f1feb61059d054fe6"
+os = "windows"
+
+    [[ConnectFourSolver.download]]
+    sha256 = "e8b0ef591c2cd5f91cd0de2a6f136a3e00e4bf0286c16e010c88d9c9eb7f5162"
+    url = "https://github.com/JuliaBinaryWrappers/ConnectFourSolver_jll.jl/releases/download/ConnectFourSolver-v0.2.0+0/ConnectFourSolver.v0.2.0.x86_64-w64-mingw32-cxx11.tar.gz"
